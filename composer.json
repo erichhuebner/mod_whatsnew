@@ -1,0 +1,8 @@
+{
+	"name": "mod_whatsnew",
+	"description": "new whats new module",
+	"type": "hubzero-module",
+	"extra": {
+	    "install-directory": "/modules/mod_whatsnew"
+	}
+}
